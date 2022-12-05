@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "textFontFamily": "Open Sans",
+  "monospaceFontFamily": "Monaco",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "headings"
+  ],
+  "interfaceFontFamily": "Open Sans",
+  "baseFontSize": 13
+}

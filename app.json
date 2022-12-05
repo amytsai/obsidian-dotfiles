@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "promptDelete": false,
+  "fileSortOrder": "byCreatedTime",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
+}
